@@ -1,0 +1,7 @@
+streamlit
+jupyter-server-proxy 
+nbserverproxy
+numpy
+pandas
+sklearn
+plotly
